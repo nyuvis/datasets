@@ -1,4 +1,4 @@
 Datasets
 ========
 
-A collection of (partly) preprocessed datasets in CSV format.
+A collection of (partially) preprocessed datasets in CSV format.
