@@ -1,0 +1,2 @@
+data from Vasant Dhar
+allData.currencies.1d.2002.csv
