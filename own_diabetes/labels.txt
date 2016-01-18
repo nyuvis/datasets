@@ -1,0 +1,3 @@
+test
+outcome
+^id$|^(diagnosis|procedure)__[^H]
